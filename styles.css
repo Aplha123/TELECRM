@@ -1,0 +1,266 @@
+
+
+.rectangle {
+  height: 50px;
+  width: 1000px;
+  background-color: #6501e5;
+  text-align: center;
+  margin: auto;
+}
+
+
+
+
+.parallelogram {
+	width: 1000px;
+	height: 50px;
+	transform: skew(-20deg);
+	background: #6501e5;
+    text-align: center;
+     margin: auto;
+}
+h2{
+    
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.diamond-shape {
+   
+    height: 80px;
+  
+   
+    width:200px;
+    background: #6501e5;
+    text-align: center;
+    margin: auto;
+  }
+  .a{
+    display: inline-block;
+    margin: auto;
+  
+    position:relative ;
+    
+  }
+  .b{
+    display: inline-block;
+    
+    position:relative ;
+   
+    
+    
+  }
+
+  .fparallelogram{
+    display: inline-block;
+    width: 300px;
+	height: 100px;
+	transform: skew(-20deg);
+	background: #6501e5;
+    text-align: center;
+
+  }
+.paraellogram3{
+    margin-top: 50px;
+    display: flex;
+     flex-direction: row;
+     width: 100%;
+    justify-content: space-evenly;
+}
+.new{
+    display: flex;
+
+    justify-content: space-evenly;
+}
+
+.example1 {
+    
+     background-color:  #6501e5 ;
+     text-align: center;
+    width: 100px;
+    align-items: center;
+    height: 50pX;
+    padding-bottom: 200px;
+
+    
+
+    
+    padding: 10px;
+    border-radius: 25px;
+  }
+  .last{
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly;
+    margin: 0;
+  
+   
+  }
+.P{
+    text-align: center;
+}
+.rightarrow
+{
+    font-size: 250px;
+}
+.downarrow{
+    font-size: 100px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+}
+.horiline1{
+    position: relative;
+    bottom: 50px;
+    display: inline-block;
+   
+}
+.horiline2{
+    position: relative;
+    bottom: 80px;
+    
+
+}
+.vl1 {
+    border-left: 6px solid green;
+    height: 55px;
+    position: relative;
+    left: 150px;
+    padding: 0;
+    margin: 0;
+  }
+  .now{
+    display: inline-block;
+    height: 100px;
+    position: relative;
+    left: 50px;
+    display: flex;
+     flex-direction: row;
+     width: 100%;
+    justify-content: space-evenly;
+    
+    
+    
+  }
+  .downarrowone{
+    position: relative;
+    left: 10px;
+    right: 50px;
+    font-size: 70px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+  }
+  .three
+  {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+   justify-content: space-evenly;
+
+  }
+  .botoom{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+   justify-content: space-evenly;
+  }
+  .downarrow5{
+    font-size: 100px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+    position: relative;
+    bottom:39px ;
+    right: 95px;
+
+  }
+  .downarrow6{
+    font-size: 100px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+    position: relative;
+    bottom: 39px;
+    right: 10px;
+
+  }
+  .downarrow7{
+    font-size: 100px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+    position: relative;
+    right: 210px;
+
+  }
+  
+  .downarrow8{
+    font-size: 100px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+    position: relative;
+    right: 5px;
+
+  }
+  
+  .downarrow9{
+    font-size: 100px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+    position: relative;
+   left: 220px;
+
+  }
+  .downarrow10{
+    font-size: 100px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+    position: relative;
+    right: 220px;
+    top: 5px;
+
+  }
+  .downarrow11{
+    font-size: 100px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+    position: relative;
+    left: 0px;
+
+  }
+   .downarrow12{
+    font-size: 100px;
+    text-align: center;
+    color: aqua;
+    padding: 0;
+    position: relative;
+    left: 210px;
+
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
